@@ -3,16 +3,11 @@ class CfgVehicles {
     class Item_Base_F;
 
     class Bag_Base: ReammoBox {
-        tf_hasLRradio = 0;
-        tf_encryptionCode = "";
-        tf_range = 20000;
+
     };
-    class TFAR_Bag_Base: Bag_Base {
-        tf_dialogUpdate = "call TFAR_fnc_updateLRDialogToChannel;";
-        tf_hasLRradio = 1;
+    class ACREFR_Bag_Base: Bag_Base {
         scope = HIDDEN;
         scopeCurator = HIDDEN;
-        #include "\z\tfar\addons\static_radios\edenAttributes.hpp"
     };
 
     #include "anprc155\CfgVehicles.hpp"
