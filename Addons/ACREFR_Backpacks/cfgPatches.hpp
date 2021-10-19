@@ -1,9 +1,6 @@
 class CfgPatches {
   class ACREFR_Backpacks {
       units[] = {			//Nichts solange cfgVehicles.hpp in die Config.cpp geladen wird
-        "ACREFR_NATO_Radio_Crate",
-        "ACREFR_EAST_Radio_Crate",
-        "ACREFR_IND_Radio_Crate",
         "ACREFR_rt1523g",
         "ACREFR_anprc155",
         "ACREFR_mr3000",
@@ -27,9 +24,10 @@ class CfgPatches {
     weapons[] = {};			 //Nichts solange cfgWeapons.hpp in die Config.cpp geladen wird
     requiredVersion = REQUIRED_VERSION;
     requiredAddons[] = {		 //Alle pbos auf denen die Inhallte basieren
-
+		
+		"ACREFR_Core"
+		
     };
-    Url = "";
-    VERSION_CONFIG;
+    Url = "https://github.com/Nilia119/ACREFR";
   };
 };

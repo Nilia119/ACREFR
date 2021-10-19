@@ -1,3 +1,13 @@
+class CfgPatches {
+		class ACREFR_Core {
+			name = "ACREFR - Core";
+			units[] = {};
+			weapons[] = {};
+			requiredAddons[] = {};
+			author = "Nilia";
+		};
+};
+
 class CfgMods {
   
   class ACREFR {

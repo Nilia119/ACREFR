@@ -1,7 +1,7 @@
-class TFAR_bussole: TFAR_Bag_Base {
+class ACREFR_bussole: ACREFR_Bag_Base {
     scope = PUBLIC;
     scopeCurator = PUBLIC;
-    author = "Raspu";
+    author = "Raspu, NIlia";
     displayName = CSTRING(Bussole);
     descriptionShort = CSTRING(Bussole_Desc);
     picture = QPATHTOF(bussole\ui\bussole_icon.paa);
@@ -10,8 +10,4 @@ class TFAR_bussole: TFAR_Bag_Base {
     model=QPATHTOF(models\tf_bussole);
     hiddenSelections[] = {"camo"};
     hiddenSelectionsTextures[] = {""};
-    tf_encryptionCode = "tf_east_radio_code";
-    tf_dialog = "bussole_radio_dialog";
-    tf_subtype = "digital_lr";
 };
-HIDDEN_CLASS(tf_bussole : TFAR_bussole); //#Deprecated dummy class for backwards compat

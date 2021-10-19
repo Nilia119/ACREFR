@@ -1,4 +1,4 @@
-class TFAR_anarc210: TFAR_Bag_Base {
+class ACREFR_anarc210: ACREFR_Bag_Base {
     scope = PUBLIC;
     scopeCurator = PUBLIC;
     displayName = CSTRING(ANARC210);
@@ -9,10 +9,4 @@ class TFAR_anarc210: TFAR_Bag_Base {
     hiddenSelectionsTextures[] = {QPATHTOF(models\data\camo\backpack_mcam_co.paa)};
     maximumLoad = 20;
     mass = 160;
-    tf_range = 40000;
-    tf_encryptionCode = "tf_west_radio_code";
-    tf_dialog = "anarc210_radio_dialog";
-    tf_subtype = "airborne";
-    tf_dialogUpdate = "[""CH%1""] call TFAR_fnc_updateLRDialogToChannel;";
 };
-HIDDEN_CLASS(tf_anarc210 : TFAR_anarc210); //#Deprecated dummy class for backwards compat
