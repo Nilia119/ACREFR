@@ -339,5 +339,8 @@
             <Chinesesimp>AN/ARC-164空中载具无线电，有效距离40公里</Chinesesimp>
             <Turkish>AN/ARC-164 airborne radyo 40km</Turkish>
         </Key>
+		<key ID="STR_ACREFR_backpacks_Author">
+			<English>Nilia</English>
+		</key>
     </Package>
 </Project>

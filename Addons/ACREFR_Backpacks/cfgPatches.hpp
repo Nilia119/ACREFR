@@ -1,7 +1,14 @@
 class CfgPatches {
   class ACREFR_Backpacks {
+	  name = "ACREFR - Backpacks";	  
+	  author = "Nilia";
+	  version = "0.0.1";
+	  versionStr = "0.0.1";
+	  versionAr[] = {0,0,1};
       units[] = {			//Nichts solange cfgVehicles.hpp in die Config.cpp geladen wird
-        "ACREFR_rt1523g",
+        "ACREFR_anarc210",
+		"ACREFR_anarc164",
+		"ACREFR_rt1523g",
         "ACREFR_anprc155",
         "ACREFR_mr3000",
         "ACREFR_mr3000_multicam",
@@ -22,12 +29,12 @@ class CfgPatches {
         "ACREFR_bussole"
     };
     weapons[] = {};			 //Nichts solange cfgWeapons.hpp in die Config.cpp geladen wird
-    requiredVersion = REQUIRED_VERSION;
-    requiredAddons[] = {		 //Alle pbos auf denen die Inhallte basieren
+    requiredVersion = "";
+		requiredAddons[] = {		 
 		
 		"ACREFR_Core"
 		
-    };
+		};	//Alle pbos auf denen die Inhallte basieren
     Url = "https://github.com/Nilia119/ACREFR";
   };
 };

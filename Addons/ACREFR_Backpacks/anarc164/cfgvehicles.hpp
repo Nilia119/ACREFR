@@ -1,6 +1,8 @@
 class ACREFR_anarc164: ACREFR_Bag_Base {
     scope = 2;
     scopeCurator = 2;
+	scopeArsenal= 2;
+	author = "$STR_ACREFR_backpacks_Author";
     displayName = "$STR_ACREFR_backpacks_ANARC164";
     descriptionShort = "$STR_ACREFR_backpacks_ANARC164_Desc";
     picture = "ACREFR_Backpacks\anarc164\ui\anarc164_icon.paa";
