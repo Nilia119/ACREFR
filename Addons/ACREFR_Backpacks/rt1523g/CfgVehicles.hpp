@@ -9,8 +9,8 @@ class ACREFR_rt1523g: ACREFR_Bag_Base {
     model = "ACREFR_Backpacks\models\clf_prc117g_ap";
     hiddenSelections[] = {"camo"};
     hiddenSelectionsTextures[] = {"ACREFR_Backpacks\models\data\clf_prc117g_ap_co.paa"};
-    maximumLoad = 50;
-    mass = 80;
+    maximumLoad = 480;
+    mass = 60;
 };
 
 class ACREFR_rt1523g_bwmod: ACREFR_rt1523g {
@@ -34,8 +34,8 @@ class ACREFR_rt1523g_big: ACREFR_rt1523g {
     hiddenSelections[] = {"camo"};
     hiddenSelectionsTextures[] = {"ACREFR_Backpacks\models\data\clf_nicecomm2_nato_multi_co.paa"};
     model="ACREFR_Backpacks\models\clf_nicecomm2";
-    maximumLoad = 160;
-    mass = 160;
+    maximumLoad = 480;
+    mass = 60;
 };
 
 class ACREFR_rt1523g_big_bwmod: ACREFR_rt1523g_big {
@@ -63,8 +63,8 @@ class ACREFR_rt1523g_sage: ACREFR_rt1523g {
     hiddenSelections[] = {"camo"};
     hiddenSelectionsTextures[] = {"ACREFR_Backpacks\models\data\camo\backpack_sage_co.paa"};
     model = "ACREFR_Backpacks\models\TFR_BACKPACK";
-    maximumLoad = 100;
-    mass = 120;
+    maximumLoad = 480;
+    mass = 60;
 };
 
 class ACRREFR_rt1523g_green: ACREFR_rt1523g_sage {

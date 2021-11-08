@@ -7,6 +7,6 @@ class ACREFR_mr6000l: ACREFR_Bag_Base {
     descriptionShort = "$STR_ACREFR_backpacks_MR6000L_Desc";
     model = "ACREFR_BAckpacks\models\TFR_BACKPACK";
     picture = "ACREFR_Backpacks\mr6000l\ui\mr6000l_icon.paa";
-    maximumLoad = 20;
-    mass = 160;
+    maximumLoad = 160;
+    mass = 20;
 };
