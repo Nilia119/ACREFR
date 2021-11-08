@@ -9,8 +9,8 @@ class ACREFR_anarc164: ACREFR_Bag_Base {
     model = "ACREFR_Backpacks\models\TFR_BACKPACK";
     hiddenSelections[] = {"camo"};
     hiddenSelectionsTextures[] = {"ACREFR_Backpacks\models\data\camo\backpack_dpcu_co.paa"};
-    maximumLoad = 20;
-    mass = 160;
+    maximumLoad = 160;
+    mass = 20;
 };
 
 /*

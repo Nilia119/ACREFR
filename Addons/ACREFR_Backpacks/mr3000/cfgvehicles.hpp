@@ -9,8 +9,8 @@ class ACREFR_mr3000: ACREFR_Bag_Base {
     model = "ACREFR_Backpacks\models\clf_nicecomm2_prc117g";
     hiddenSelections[] = {"camo"};
     hiddenSelectionsTextures[] = {"ACREFR_Backpacks\models\data\clf_nicecomm2_csat_multi_co.paa"};
-    maximumLoad = 160;
-    mass = 160;
+    maximumLoad = 240;
+    mass = 20;
 };
 
 class ACREFR_mr3000_multicam: ACREFR_mr3000 {
