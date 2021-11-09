@@ -1,1 +1,2 @@
-	#include "cfgPatches.hpp"
+#include "cfgPatches.hpp"
+#include "cfgVehicles.hpp"
