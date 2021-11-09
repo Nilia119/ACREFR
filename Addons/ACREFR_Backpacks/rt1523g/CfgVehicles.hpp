@@ -9,7 +9,7 @@ class ACREFR_rt1523g: ACREFR_Bag_Base {
     model = "ACREFR_Backpacks\models\clf_prc117g_ap";
     hiddenSelections[] = {"camo"};
     hiddenSelectionsTextures[] = {"ACREFR_Backpacks\models\data\clf_prc117g_ap_co.paa"};
-    maximumLoad = 480;
+    maximumLoad = 136;
     mass = 60;
 };
 

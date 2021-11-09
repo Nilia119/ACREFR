@@ -9,6 +9,6 @@ class ACREFR_bussole: ACREFR_Bag_Base {
     model = "ACREFR_Backpacks\models\tf_bussole";
     hiddenSelections[] = {"camo"};
     hiddenSelectionsTextures[] = {"ACREFR_Backpacks\Models\data\tf_bussole_co.paa"};
-    maximumLoad = 120;
+    maximumLoad = 136;
     mass = 20;	
 };
