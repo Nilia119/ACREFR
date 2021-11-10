@@ -1,5 +1,5 @@
 class CfgVehicles {
-    #include "Ammobox.hpp"
+    
     class ReammoBox;
     class Item_Base_F;
 
@@ -18,5 +18,6 @@ class CfgVehicles {
     #include "mr3000\CfgVehicles.hpp"
     #include "mr6000l\CfgVehicles.hpp"
     #include "rt1523g\CfgVehicles.hpp"
+    #include "Ammobox.hpp"
   
 };
