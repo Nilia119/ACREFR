@@ -431,5 +431,8 @@
             <Korean>닐리아</Korean>
             <Turkish>Nilia</Turkish>
         </key>
+        <key ID="STR_ACREFR_backpacks_Box_NATO">
+            <Original>ACREFR Backpacks NATO<Original>
+        </key>
     </Package>
 </Project>
