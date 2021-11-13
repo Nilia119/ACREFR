@@ -6,16 +6,9 @@ class ACREFR_anarc164: ACREFR_Bag_Base {
     displayName = "$STR_ACREFR_backpacks_ANARC164";
     descriptionShort = "$STR_ACREFR_backpacks_ANARC164_Desc";
     picture = "ACREFR_Backpacks\anarc164\ui\anarc164_icon.paa";
-    model = "ACREFR_Backpacks\models\TFR_BACKPACK";
+    model = "ACREFR_Backpacks\models\ACREFR_BACKPACK";
     hiddenSelections[] = {"camo"};
-    hiddenSelectionsTextures[] = {"ACREFR_Backpacks\models\data\camo\backpack_dpcu_co.paa"};
+    hiddenSelectionsTextures[] = {"ACREFR_Backpacks\models\data\camo\ACREFR_backpack_dpcu_co.paa"};
     maximumLoad = 160;
     mass = 20;
 };
-
-/*
-	Beschreibung funktioniert noch nicht.
-	Gewicht muss Angepasst werden.
-	Autoren fehlen.
-	
-*/
