@@ -1,7 +1,7 @@
 class ACREFR_rt1523g: ACREFR_Bag_Base {
     scope = 2;
     scopeCurator = 2;
-	scopeArsenal = 2;
+    scopeArsenal = 2;
     author = "Raspu, Gandi, Nkey, Nilia";
     displayName = "$STR_ACREFR_backpacks_RT1523G";
     descriptionShort = "$STR_ACREFR_backpacks_RT1523G_Desc";
@@ -67,7 +67,7 @@ class ACREFR_rt1523g_sage: ACREFR_rt1523g {
     mass = 60;
 };
 
-class ACRREFR_rt1523g_green: ACREFR_rt1523g_sage {
+class ACREFR_rt1523g_green: ACREFR_rt1523g_sage {
     displayName = "$STR_ACREFR_backpacks_RT1523G_Green";
     descriptionShort = "$STR_ACREFR_backpacks_RT1523G_Green_Desc";
     hiddenSelections[] = {"camo"};
