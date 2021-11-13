@@ -28,7 +28,11 @@ class CfgPatches {
 		  "TFAR_rt1523g_sage",
 		  "TFAR_rt1523g_green",
 		  "TFAR_rt1523g_fabric",
-		  "TFAR_rt1523g_black",
+		  "TFAR_rt1523g_black"
+		  
+	  };
+      weapons[] = {
+		  
 		  "TFAR_anprc148jem",
 		  "TFAR_anprc152",
 		  "TFAR_anprc154",
@@ -38,12 +42,12 @@ class CfgPatches {
 		  "TFAR_rf7800str"
 		  
 	  };
-      weapons[] = {};
       requiredVersion = "";
 	  requiredAddons[] = {
 		  
 		  "ACREFR_Core",
-		  "ACREFR_Backpacks"
+		  "ACREFR_Backpacks",
+		  "A3_Weapons_F"
      
 		
 	  };	//Alle pbos auf denen die Inhallte basieren
