@@ -6,9 +6,9 @@ class ACREFR_bussole: ACREFR_Bag_Base {
     displayName = "$STR_ACREFR_backpacks_Bussole";
     descriptionShort = "$STR_ACREFR_backpacks_Bussole_Desc";
     picture = "ACREFR_Backpacks\bussole\ui\bussole_icon.paa";
-    model = "ACREFR_Backpacks\models\tf_bussole";
+    model = "ACREFR_Backpacks\models\ACREFR_bussole";
     hiddenSelections[] = {"camo"};
-    hiddenSelectionsTextures[] = {"ACREFR_Backpacks\Models\data\tf_bussole_co.paa"};
+    hiddenSelectionsTextures[] = {"ACREFR_Backpacks\Models\data\ACREFR_bussole_co.paa"};
     maximumLoad = 136;
-    mass = 20;	
+    mass = 20;
 };

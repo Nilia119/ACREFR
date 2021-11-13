@@ -14,11 +14,11 @@ class CfgPatches {
 
 class CfgMods {
   
-  class ACREFR {
+  class ACREFR_Info {
     
-    logo = "\ACREFR_Core\Data\logo.paa";  //Logo displayed in bottom left of main menu
-    logoOver = "\ACREFR_Core\Data\logo.paa"; //Logo displayed in the mod menu when mod icon is clicked 
-    logoSmall = "\ACREFR_Core\Data\logo.paa"; //Logo displayed next to all units and vehicles in the editor 
+    logo = "ACREFR\Addons\ACREFR_Core\Data\logo.paa";  //Logo displayed in bottom left of main menu
+    logoOver = "ACREFR\Addons\ACREFR_Core\Data\logo.paa"; //Logo displayed in the mod menu when mod icon is clicked 
+    logoSmall = "ACREFR\Addons\ACREFR_Core\Data\logo.paa"; //Logo displayed next to all units and vehicles in the editor 
     dlcColor[] = {0,0,0,1}; //Something about color
     hideName = 0; //Hide the name of the mod
     hidePicture = 0; //Hide the logo of the mod
