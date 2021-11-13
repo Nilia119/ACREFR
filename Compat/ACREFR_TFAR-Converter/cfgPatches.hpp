@@ -28,7 +28,14 @@ class CfgPatches {
 		  "TFAR_rt1523g_sage",
 		  "TFAR_rt1523g_green",
 		  "TFAR_rt1523g_fabric",
-		  "TFAR_rt1523g_black"
+		  "TFAR_rt1523g_black",
+		  "TFAR_anprc148jem",
+		  "TFAR_anprc152",
+		  "TFAR_anprc154",
+		  "TFAR_fadak",
+		  "TFAR_microdagr",
+		  "TFAR_pnr1000a",
+		  "TFAR_rf7800str"
 		  
 	  };
       weapons[] = {};
