@@ -2,7 +2,7 @@ class ACREFR_anarc210: ACREFR_Bag_Base {
     scope = 2;
     scopeCurator = 2;
 	scopeArsenal= 2;
-	author = "$STR_ACREFR_backpacks_Author";
+	author = "Nilia";
     displayName = "$STR_ACREFR_backpacks_ANARC210";
     descriptionShort = "$STR_ACREFR_backpacks_ANARC210_Desc";
     picture = "ACREFR_Backpacks\anarc210\ui\anarc210_icon.paa";

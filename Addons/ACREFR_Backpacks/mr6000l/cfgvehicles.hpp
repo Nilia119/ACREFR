@@ -2,7 +2,7 @@ class ACREFR_mr6000l: ACREFR_Bag_Base {
     scope = 2;
     scopeCurator = 2;
 	scopeArsenal = 2;
-	author = "$STR_ACREFR_backpacks_Author";
+	author = "Nilia";
     displayName = "$STR_ACREFR_backpacks_MR6000L";
     descriptionShort = "$STR_ACREFR_backpacks_MR6000L_Desc";
     model = "ACREFR_Backpacks\models\ACREFR_BACKPACK";

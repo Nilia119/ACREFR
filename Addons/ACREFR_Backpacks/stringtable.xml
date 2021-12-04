@@ -421,15 +421,5 @@
             <Turkish>AN/ARC-164 airborne radyo 40km</Turkish>
             <German>AN/ARC-164 Flugzeugfunkgerät 40Km Reichweite</German>
         </Key>
-        <key ID="STR_ACREFR_backpacks_Author">
-            <Original>Nilia</Original>
-            <English>Nilia</English>
-            <German>Nilia</German>
-            <Chinese>尼利亞</Chinese>
-            <Chinesesimp>尼利亚</Chinesesimp>
-            <Japanese>ニリア</Japanese>
-            <Korean>닐리아</Korean>
-            <Turkish>Nilia</Turkish>
-        </key>
     </Package>
 </Project>
